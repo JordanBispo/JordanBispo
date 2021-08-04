@@ -5,4 +5,7 @@
 * 📅 born in 1999
 * 👨‍🎓 computer engineering student
 
-https://github-readme-stats.vercel.app/api?username={JordanBispo}  https://github-readme-stats.vercel.app/api/top-langs/?username={JordanBispo}
+
+<img src=https://github-readme-stats.vercel.app/api?username={JordanBispo}" /> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username={JordanBispo} />
+  
+
