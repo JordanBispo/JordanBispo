@@ -6,5 +6,4 @@
 * 👨‍🎓 computer engineering student
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo" />
+<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo" />
