@@ -6,7 +6,7 @@
 * 👨‍🎓 Computer engineering student.
 * 👨‍💻 Work as Node.Js developer.
 
-<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical)" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical)" />
+<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical" />
 
 
 ## My skills
