@@ -15,7 +15,7 @@
 
 
 
-<a text-align="center" margin="2px">
+<a text-align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&count_private=true&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=223&hide_border=false&border_color=FFF&border_radius=15&disable_animations=false" />      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&bg_color=223&title_color=30ff30&text_color=FFF&border_radius=15&layout=compact" />
 </a>
 
