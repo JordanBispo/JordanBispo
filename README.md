@@ -1,4 +1,3 @@
-
 # I'm Jordan Bispo, a Full Stack developer
 <a href="https://www.linkedin.com/in/jordanbispo">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -15,9 +14,9 @@
 
 
 
-<a text-align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&count_private=true&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=223&hide_border=false&border_color=FFF&border_radius=15&disable_animations=false" />      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&bg_color=223&title_color=30ff30&text_color=FFF&border_radius=15&layout=compact" />
-</a>
+<div text-align="center" align="center" >
+<img text-align="center"  align="center" margin="5px" src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&count_private=true&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=223&hide_border=false&border_color=FFF&border_radius=15&disable_animations=false" />      <img text-align="center" margin="5px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&bg_color=223&title_color=30ff30&text_color=FFF&border_radius=15&layout=compact" />
+</dv>
 
 ## My skills
 
@@ -32,7 +31,3 @@
 
 ### Others: 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-
-
-
-
