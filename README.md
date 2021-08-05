@@ -1,3 +1,4 @@
+
 # I'm Jordan Bispo, a Full Stack developer
 <a href="https://www.linkedin.com/in/jordanbispo">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -14,7 +15,8 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=45,000,003&hide_border=false&border_color=00ff00&border_radius=20" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical" />
 
 
 ## My skills
