@@ -6,6 +6,14 @@
 * 👨‍🎓 Computer engineering student.
 * 👨‍💻 Work as Node.Js developer.
 
+<a href="https://www.linkedin.com/in/jordanbispo">
+	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jordanbispo.dev@gmail.com">
+	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical" />
 
 
@@ -23,13 +31,6 @@
 ### Others: 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-## Social: 
-<a href="https://www.linkedin.com/in/jordanbispo">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jordanbispo.dev@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 
