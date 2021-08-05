@@ -5,18 +5,13 @@
 <a href="mailto:jordanbispo.dev@gmail.com">
 	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 ### I'm ...
 * 📍 Live in São Paulo, Brasil.
 * 📅 Born in 1999.
 * 👨‍🎓 Computer engineering student.
 * 👨‍💻 Work as Node.Js developer.
 
-<a href="https://www.linkedin.com/in/jordanbispo">
-	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:jordanbispo.dev@gmail.com">
-	<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&theme=radical" />      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&theme=radical" />
