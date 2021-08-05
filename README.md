@@ -5,7 +5,7 @@
 * 📍 Live in São Paulo, Brasil.
 * 📅 Born in 1999.
 * 👨‍🎓 Computer engineering student.
-* 👨‍💻 Work as Node.Js developer in Aeroscan.
+* 👨‍💻 Work as Node.Js developer in <a href="https://www.aeroscan.com.br/home">Aeroscan</a>.
 <a href="https://www.linkedin.com/in/jordanbispo">
 	<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
