@@ -14,8 +14,8 @@
 
 
 
-<div text-align="center" align="center" >
-<img text-align="center"  align="center" margin="5px" src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&count_private=true&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=223&hide_border=false&border_color=FFF&border_radius=15&disable_animations=false" />      <img text-align="center" margin="5px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&bg_color=223&title_color=30ff30&text_color=FFF&border_radius=15&layout=compact" />
+<div text-align="center" align="center">
+<img text-align="center"  align="center"  src="https://github-readme-stats.vercel.app/api?username=JordanBispo&show_icons=true&count_private=true&title_color=30ff30&text_color=FFF&icon_color=f0f000&bg_color=223&hide_border=false&border_color=FFF&border_radius=15&disable_animations=false" />      <img text-align="center" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanBispo&bg_color=223&title_color=30ff30&text_color=FFF&border_radius=15&layout=default" />
 </dv>
 
 ## My skills
